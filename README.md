@@ -2,4 +2,4 @@
 
   Bom dia!
   
-  Testando a edição do README.md para conferir as commit changes.
+  Testando a edição do README.md para conferir as ferramentas.
